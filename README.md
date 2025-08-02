@@ -30,4 +30,9 @@ A fully functional Sudoku game with a graphical user interface built using **Tki
 
 ```bash
 python main.py
+```
+
+## License
+
+MIT License © Denise Roßberg
 
